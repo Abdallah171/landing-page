@@ -1,8 +1,7 @@
 # Landing Page Project
 
-## Table of Contents
-
-* [Instructions](#instructions)
+press the link below to show the project 
+https://abdallah171.github.io/landing-page/
 
 ## Instructions
 
