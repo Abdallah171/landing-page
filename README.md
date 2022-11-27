@@ -1,6 +1,6 @@
 # Landing Page Project
 
-press the link below to show the project \n
+press the link  to see the project
 https://abdallah171.github.io/landing-page/
 
 ## Instructions
